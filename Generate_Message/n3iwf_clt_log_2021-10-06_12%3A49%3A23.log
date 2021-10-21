@@ -1,0 +1,63 @@
+[2021-10-06 12:49:23.502] [PDU_session_modification_request.cpp:133] [encode] [info] PDU Session Modification Request 	
+[2021-10-06 12:49:23.502] [pdu_5gs_sm.cpp:67] [logCommonIEs] [info] Extended Protocol Discriminator : 46 	
+[2021-10-06 12:49:23.502] [pdu_5gs_sm.cpp:68] [logCommonIEs] [info] PDU session Identity : 3 	
+[2021-10-06 12:49:23.503] [pdu_5gs_sm.cpp:69] [logCommonIEs] [info] Procedure Transaction Identity : 1 	
+[2021-10-06 12:49:23.503] [pdu_5gs_sm.cpp:70] [logCommonIEs] [info] Message Type : 201 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:71] [code_TLV] [info] 5GSM Capability 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:75] [code_TLV] [info] 	 Iei : 40 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:76] [code_TLV] [info] 	 Length : 13 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:92] [code_TLV] [info] Contents :  	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 46 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 3 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 1 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 201 	
+[2021-10-06 12:49:23.503] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 40 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 13 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 0 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 0 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 10 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 0 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 0 	
+[2021-10-06 12:49:23.504] [_5GSM_capability.cpp:96] [code_TLV] [info] 	 13 	
+[2021-10-06 12:49:23.504] [_5GSM_Cause.cpp:63] [code_TV] [info] 5GSM Cause 	
+[2021-10-06 12:49:23.504] [_5GSM_Cause.cpp:67] [code_TV] [info]  Iei : 89 	
+[2021-10-06 12:49:23.504] [_5GSM_Cause.cpp:70] [code_TV] [info]  Cause Value : 33 	
+[2021-10-06 12:49:23.504] [Maximum_number_of_supported_packet_filter.cpp:42] [code_TV] [info] Maximum number of supported packet filters 	
+[2021-10-06 12:49:23.504] [Maximum_number_of_supported_packet_filter.cpp:46] [code_TV] [info]  iei : 85 	
+[2021-10-06 12:49:23.504] [Maximum_number_of_supported_packet_filter.cpp:50] [code_TV] [info]  Maximum data bit rate for uplink : 3 	
+[2021-10-06 12:49:23.504] [Maximum_number_of_supported_packet_filter.cpp:55] [code_TV] [info]  Minimum data bit rate for downlink : 32 	
+[2021-10-06 12:49:23.504] [Always_on_PDU_session_requested.cpp:80] [code_TV] [info] Always on PDU session requested 	
+[2021-10-06 12:49:23.504] [Always_on_PDU_session_requested.cpp:81] [code_TV] [info] 	 iei : 176 	
+[2021-10-06 12:49:23.504] [Always_on_PDU_session_requested.cpp:85] [code_TV] [info] 	 Value : 177 	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:306] [log] [info] QOS Rules  	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:315] [log] [info] qri : 1 	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:316] [log] [info] len : 236 	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:317] [log] [info] number of filters : 1 	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:318] [log] [info] DQR Bit : 1 	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:319] [log] [info] Rule Operation Code : 3 	
+[2021-10-06 12:49:23.504] [QoSRules.cpp:322] [log] [info] Filter Direction : 2 	
+[2021-10-06 12:49:23.505] [QoSRules.cpp:323] [log] [info] Filter Identifier : 1 	
+[2021-10-06 12:49:23.505] [QoSRules.cpp:324] [log] [info] Length : 1 	
+[2021-10-06 12:49:23.505] [QoSRules.cpp:327] [log] [info] Packet Filter Component Type : 1 	
+[2021-10-06 12:49:23.505] [QoSRules.cpp:330] [log] [info] qosRulePrecedency : 255 	
+[2021-10-06 12:49:23.505] [QoSRules.cpp:331] [log] [info] segmentation : 0 	
+[2021-10-06 12:49:23.505] [QoSRules.cpp:332] [log] [info] qri : 9 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:46] [log] [info] Qos Flow Descriptors 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:48] [log] [info] 	 Iei : 121 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:49] [log] [info] 	 Length : 11 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:50] [log] [info] 	 Qos Flow Identifier : 9 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:51] [log] [info] 	 Operation Code : 1 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:52] [log] [info] 	 No of Parameters : 1 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:53] [log] [info] 	 E Bit : 1 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:54] [log] [info] 	 Parameter List 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:56] [log] [info] 		 Parameter Identifier : 1 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:57] [log] [info] 		 Length of Parameters Contents : 2 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:58] [log] [info] 		 Contents 	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:60] [log] [info] 				 2  	
+[2021-10-06 12:49:23.505] [QosFlowDiscriptors.cpp:60] [log] [info] 				 3  	
+[2021-10-06 12:49:23.505] [ExtendedProtocolConfigurationOptions.cpp:21] [code_TLV_E] [info] Extended Protocol ConfigurationOptions 	
+[2021-10-06 12:49:23.505] [ExtendedProtocolConfigurationOptions.cpp:35] [code_TLV_E] [info] 	 iei : 123 	
+[2021-10-06 12:49:23.505] [ExtendedProtocolConfigurationOptions.cpp:36] [code_TLV_E] [info] 	 Confgitration Protocol Value : 0 	
+[2021-10-06 12:49:23.505] [ExtendedProtocolConfigurationOptions.cpp:37] [code_TLV_E] [info] 	 External Value : 1 	
+[2021-10-06 12:49:23.505] [ExtendedProtocolConfigurationOptions.cpp:38] [code_TLV_E] [info] 	 Contents 	
+[2021-10-06 12:49:23.505] [ExtendedProtocolConfigurationOptions.cpp:42] [code_TLV_E] [info] 	 	   0  10  0  0  13  0  0  3  0  	

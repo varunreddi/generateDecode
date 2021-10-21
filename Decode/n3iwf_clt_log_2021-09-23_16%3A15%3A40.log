@@ -1,0 +1,28 @@
+[2021-09-23 16:15:40.680] [decode.cpp:97] [identify_ct] [info] PDU Session Modification Reject 	
+[2021-09-23 16:15:40.680] [pdu_5gs_sm.cpp:67] [logCommonIEs] [info] Extended Protocol Discriminator : 46 	
+[2021-09-23 16:15:40.680] [pdu_5gs_sm.cpp:68] [logCommonIEs] [info] PDU session Identity : 10 	
+[2021-09-23 16:15:40.680] [pdu_5gs_sm.cpp:69] [logCommonIEs] [info] Procedure Transaction Identity : 0 	
+[2021-09-23 16:15:40.680] [pdu_5gs_sm.cpp:70] [logCommonIEs] [info] Message Type : 202 	
+[2021-09-23 16:15:40.680] [_5GSM_Cause.cpp:51] [decode_V] [info] 5GSM Cause 	
+[2021-09-23 16:15:40.680] [_5GSM_Cause.cpp:55] [decode_V] [info] 	 46  	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:37] [logGPRSTimer3] [info] GPRS Timer3 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:38] [logGPRSTimer3] [info] 	 ieiValue : 55 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:39] [logGPRSTimer3] [info] 	 lenth : 1 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:40] [logGPRSTimer3] [info] 	 timervalue : 0 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:43] [logGPRSTimer3] [info] 	 GPRSTimer3 : 0 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:80] [logExtendedPrtoconfigoptions] [info] Extended Protocol configuration options:  	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:81] [logExtendedPrtoconfigoptions] [info] 	 Element ID :123 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:82] [logExtendedPrtoconfigoptions] [info] 	 Length :5 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:83] [logExtendedPrtoconfigoptions] [info] 	 Config proto :1 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:84] [logExtendedPrtoconfigoptions] [info] 	 Ext bit  :1 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:85] [logExtendedPrtoconfigoptions] [info] 	 Contents : 	
+[2021-09-23 16:15:40.680] [PDUSessionModificationReject.cpp:87] [logExtendedPrtoconfigoptions] [info] 	 	   1  2  3  4  	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:48] [logReAttempIndicator] [info] Re-Attemp Indicator 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:49] [logReAttempIndicator] [info] 	 ieiValue : 29 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:50] [logReAttempIndicator] [info] 	 length : 1 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:53] [logReAttempIndicator] [info] 	 EPLMC : 0 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:56] [logReAttempIndicator] [info] 	 RATC : 0 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:60] [log5GSMCongestionReAttempIndicator] [info] 5GSM Congestion Re-Attemp Indicator 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:61] [log5GSMCongestionReAttempIndicator] [info] 	 ieiValue : 97 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:62] [log5GSMCongestionReAttempIndicator] [info] 	 length : 1 	
+[2021-09-23 16:15:40.681] [PDUSessionModificationReject.cpp:65] [log5GSMCongestionReAttempIndicator] [info] 	 ABO : 0 	
